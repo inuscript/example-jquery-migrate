@@ -1,0 +1,16 @@
+{
+  "name": "example-jquery-migrate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-static": "^0.7.7"
+  },
+  "scripts": {
+    "start": "static"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
